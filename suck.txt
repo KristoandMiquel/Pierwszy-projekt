@@ -1,0 +1,4 @@
+Console.WriteLine("Daniluk ³yka bile");
+if(Damiluk<=iloscjaj){
+do(nie przeszkadzac bo ³ykane)
+}
